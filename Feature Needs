@@ -1,0 +1,32 @@
+Client Needs
+  Query information based on facility, category of sites (school, church, OB, Peds)
+  Outreach needs to be a running list of previous outreaches
+    Outreach - date of outreach (1 column) + information about outreach (1 column)
+  
+  Have to be able to input outreach events
+  Search a facilty : call location
+    Update values based on facility
+  Facility - UNIQUE ID
+    Phone Number - Can Have Multiple, but just keep as one long text
+  With the outreach, alert user for outreaches that haven't been completed in timeframe
+    Timeframe should be able to be changed
+    Such as "Look for schools that havent been contacted in 2 months"
+
+  Need to able to create a new facility
+    *Facility Name is only requirement
+
+  Run reports of outreaches completed
+    - Facilities completed
+    - Date of outreach
+    - What was outreached
+
+
+  Start with OBs and Peds when reworking
+
+
+
+
+  Clean way to put in information
+  Want to search list of contacts that were done
+  Want to be told if a contact hasn't been reached in more than 30 days
+  
